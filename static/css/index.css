@@ -155,3 +155,19 @@ body {
 #interpolation-image-wrapper img {
   border-radius: 5px;
 }
+
+/* Video container styling */
+.video-container {
+  max-width: 1000px;
+  width: 100%;
+  margin: 2rem auto;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+#project-video {
+  width: 100%;
+  height: auto;
+  display: block;
+}
